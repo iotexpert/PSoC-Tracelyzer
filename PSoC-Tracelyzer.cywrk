@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="PSoC-Tracelyzer" persistent="PSoC-Tracelyzer.cywrk" platform="NOT_USED">
+<current_project name=".\test-uart.cydsn\test-uart.cyprj" />
+<wrkspc_folders />
+<files />
+<projects>
+<v>.\1-BlinkingLED.cydsn\1-BlinkingLED.cyprj</v>
+<v>.\2-UART-Thread.cydsn\2-UART-Thread.cyprj</v>
+<v>.\3-Queue.cydsn\3-Queue.cyprj</v>
+<v>.\5-Counting-Semaphore.cydsn\5-Counting-Semaphore.cyprj</v>
+<v>.\4-Binary-Semaphore.cydsn\4-Binary-Semaphore.cyprj</v>
+<v>.\6-Mutex.cydsn\6-Mutex.cyprj</v>
+<v>.\4a-Binary-Semaphore-UART.cydsn\4a-Binary-Semaphore-UART.cyprj</v>
+<v>.\7-Shared-I2C.cydsn\7-Shared-I2C.cyprj</v>
+<v>.\8-Shared-I2C_Interrupt.cydsn\8-Shared-I2C_Interrupt.cyprj</v>
+<v>.\9-Trace.cydsn\9-Trace.cyprj</v>
+<v>.\1-BlinkingLED_RTT.cydsn\1-BlinkingLED_RTT.cyprj</v>
+<v>.\1-BlinkingLED_UART_TRACE.cydsn\1-BlinkingLED_UART_TRACE.cyprj</v>
+<v>.\1-BlinkingLED_UART_TRACE_DMA.cydsn\1-BlinkingLED_UART_TRACE_DMA.cyprj</v>
+<v>.\test-uart.cydsn\test-uart.cyprj</v>
+</projects>
+<workspace_id v="fa6a5f73-135d-4778-8c0e-4c4637c75cc1" />
+<WriteAppVersionLastSavedWith v="4.1.0.2686" />
+<WriteAppMarketingVersionLastSavedWith v="4.1" />
+<CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyPrjDependencyList" version="4">
+<wrkspc_dependencies />
+</CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316>
+<CyGuid_63b68103-67f5-4406-8da6-5c8625765b82 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyIgnoredSystemDepsList" version="1">
+<wrkspc_dependencies />
+</CyGuid_63b68103-67f5-4406-8da6-5c8625765b82>
+</CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd>
+</CyXmlSerializer>
