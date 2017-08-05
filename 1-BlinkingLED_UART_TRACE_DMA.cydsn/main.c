@@ -46,8 +46,8 @@ int main(void)
     DMA_SetDstAddress(0, (void *)UART_TX_FIFO_WR_PTR);
 
        
+    //vTraceEnable(TRC_START_AWAIT_HOST);
     vTraceEnable(TRC_START);
-
     /* Create LED task, which will blink the RED LED */
     xTaskCreate(
         LED_Task,       /* Task function */

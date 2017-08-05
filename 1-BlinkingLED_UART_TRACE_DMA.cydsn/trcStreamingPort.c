@@ -22,7 +22,7 @@ int32_t PSoC_Receive(void *data, uint32_t size, int32_t *numOfBytesReceived)
 
 int32_t PSoC_Transmit(void* data, uint32_t size, int32_t *numOfBytesSent )
 {
-    
+    BLUE_Write(0);
     while( CyDmaGetActiveChannels()& DMA_CHANNEL_MASK);
     DMA_SetSrcAddress(0, (void *)data);
     DMA_SetNumDataElements(0,size);
