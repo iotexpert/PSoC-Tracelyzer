@@ -20,12 +20,10 @@
 <v>.\1-BlinkingLED_RTT.cydsn\1-BlinkingLED_RTT.cyprj</v>
 <v>.\1-BlinkingLED_UART_TRACE.cydsn\1-BlinkingLED_UART_TRACE.cyprj</v>
 <v>.\1-BlinkingLED_UART_TRACE_DMA.cydsn\1-BlinkingLED_UART_TRACE_DMA.cyprj</v>
-<v>.\test-uart.cydsn\test-uart.cyprj</v>
-<v>.\DMA_UART_PSoC401.cydsn\DMA_UART_PSoC401.cyprj</v>
 </projects>
 <workspace_id v="fa6a5f73-135d-4778-8c0e-4c4637c75cc1" />
-<WriteAppVersionLastSavedWith v="4.1.0.2686" />
-<WriteAppMarketingVersionLastSavedWith v="4.1" />
+<WriteAppVersionLastSavedWith v="4.1.0.3210" />
+<WriteAppMarketingVersionLastSavedWith v="4.1 Update 1" />
 <CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyPrjDependencyList" version="4">
 <wrkspc_dependencies />
 </CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316>
